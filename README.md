@@ -30,7 +30,7 @@ CSS3 – Styling and layout
 
 JavaScript (Vanilla JS) – Game logic + DOM updates.
 
----How It Works ?? :--)
+--- 🔧How It Works ?? :--)
 
 Create a 3×3 grid using buttons/divs
 
